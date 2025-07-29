@@ -11,5 +11,8 @@ Analyze hotel booking data in Excel to identify total booking, total cancellatio
 - Exploratory Analysis – Use filters, pivot tables, and charts to explore data.
 - Trend Analysis – Identify cancellation patterns by hotel type, lead time, customer type, etc.
 - Visualization – Create graphs/charts to present findings.
-- Insight Generation – Summarize key findings and patterns. 
+- Insight Generation – Summarize key findings and patterns.
+## Dashboard
+<img width="1851" height="820" alt="Dashboard1 png" src="https://github.com/user-attachments/assets/a6ea30c3-4c9d-4adb-8643-1575b3c833ff" />
+
 
